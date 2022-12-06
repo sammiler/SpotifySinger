@@ -77,9 +77,11 @@ Charlie Puth
 A Boogie Wit da Hoodie
 Alan Walker
 Future
+The Drifters
 Elton John
 J. Cole
 Alessia Cara
+Hole
 MEDUZA
 Ava Max
 Lana Del Ray
@@ -195,8 +197,10 @@ The Killers
 Kane Brown
 Childish Gambino
 Paul McCartney
+Paul McCartney & Wings
 Juanes
 Billy Joel
+The Yardbirds
 Madonna
 Kesha  无
 Phil Collins
@@ -204,6 +208,11 @@ Bryan Admas
 Alec Benjamin
 George Ezra
 Bruce Springsteen
+The B-52's
+The Paul Butterfield Blues Band
+Howlin' Wolf
+Fugees
+L.L. Cool J
 Calum Scott
 Doja Cat
 Creedence Clearwater Revival
@@ -229,8 +238,10 @@ ABBA
 Rae Sremmurd
 The Notorious B.I.G.
 Radiohead
+Linda Ronstadt
 Foo Fighters
 Marvin Gaye
+Elvis Costello and The Attractions
 blink-182
 LANY
 Lil Tjay
@@ -270,6 +281,7 @@ Flume
 H.E.R.
 Jeremih
 R.E.M.
+Little Walter
 Lynyrd Skynyrd
 Yungblud
 Summer Walker
@@ -291,8 +303,10 @@ Blackpink
 Pearl Jam
 Gigi D'Agostino
 The Beach Boys
+Smokey Robinson and The Miracles
 Blueface
 Ciara
+Labelle
 Mike Posner
 Kyle
 Muse
@@ -341,14 +355,22 @@ Timbaland and Missy Elliott
 The Bee Gees
 John Prine
 The Replacements
+EPMD
 Babyface
+Alice Cooper
+Los Lobos
 Felice and Boudleaux Bryant
 Barry Mann and Cynthia Weill
 Kris Kristofferson
 Sam Cooke
+Boogie Down Productions
 Nicholas Ashford and Valerie Simpson
 Björk
+The Pogues
+Suicide
+Devo
 R. Kelly
+John Lee Hooker
 Lucinda Williams
 Curtis Mayfield
 Allen Toussaint
@@ -357,10 +379,14 @@ Isaac Hayes and David Porter
 Patti Smith
 Fats Domino and Dave Barthomolew
 Steely Dan
+Jerry Lee Lewis
+Don Henley
 Dan Penn
 James Taylor
 Jay Z
 The Smiths
+Elvis Costello & The Attractions
+Mott the Hoople
 Kenny Gamble and Leon A. Huff
 George Harrison
 Bert Berns
@@ -372,6 +398,7 @@ Tom Petty
 George Clinton
 The Clash
 Tom Waits
+Black Flag
 Kurt Cobain
 Fleetwood Mac
 Willie Dixon
@@ -386,18 +413,24 @@ John Fogerty
 Al Green
 Jackson Browne
 Grateful Dead
+Bob Dylan & The Band
+Crosby, Stills & Nash
 Bono and the Edge
 Merle Haggard
+The Strangers
 Burt Bacharach and Hal David
 The Who
+The Jesus and Mary Chain
 Buddy Holly
 Woody Guthrie
 The Kinks
 James Brown
 Randy Newman
+Buzzcocks
 Elvis Costello
 Robert Johnson
 Lou Reed
+John Mayall
 Jerry Leiber and Mike Stoller
 Ellie Greenwich and Jeff Barry
 Neil Young
@@ -639,11 +672,14 @@ Jesse & Joy
 Eric Church
 Kenny Chesney
 Depeche Mode
+Meat Loaf
 Norah Jones
 Eric Clapton
 Ufo361
 C. Tangana
 Simon & Garfunkel
+Patsy Cline
+Jackie Wilson
 KHEA
 Maria Becerra
 The Game
@@ -683,16 +719,25 @@ The Cranberries
 Luciano
 Rod Wave
 Rage Against The Machine
+The Ronettes
+Gram Parsons
 El Fantasma
 Black Sabbath
 Rag'n'Bone Man
+Cheap Trick
 Sfera Ebbasta
+Steve Miller Band
+WAR
 MGMT
+Peter Wolf
+Diana Ross & The Supremes
 Hollywood Undead
 Keith Urban
 Shaggy
 Gerardo Ortiz
 Rod Stewart
+Todd Rundgren
+Carpenters
 The White Stripes
 Quinn XCII
 A Day To Remember
@@ -910,6 +955,7 @@ LUDMILLA
 Dido
 Jack Ü
 Yusuf / Cat Stevens
+Cat Stevens
 Greeicy
 Rich Brian
 Intocable
@@ -930,6 +976,7 @@ La Adictiva Banda San José de Mesillas
 Juicy J
 Bea Miller
 Otis Redding
+Crosby, Stills, Nash & Young
 Jasmine Thompson
 KSI
 Julieta Venegas
@@ -1023,6 +1070,7 @@ Jeezy
 Diego & Victor Hugo
 TLC
 Beach House
+Toots & The Maytals
 Gym Class Heroes
 Wu-Tang Clan
 Vince Staples
@@ -1040,6 +1088,10 @@ Supertramp
 Counting Crows
 Gloria Trevi
 Pixies
+No Doubt
+O'Jays
+Eric B. & Rakim
+Bonnie Raitt
 ZHU
 Upchurch
 Andrés Calamaro
@@ -1087,8 +1139,10 @@ Laura Pausini
 Salaam Remi
 SCH
 Alanis Morissette
+Liz Phair
 King Crimson
 My Bloody Valentine
+Professor Longhair
 Madvillain
 Mingus
 John Coltrane
@@ -1114,21 +1168,29 @@ Cocteau Twins
 Swans
 Talk Talk
 Sonic Youth
+Richard & Linda Thompson
 Aphex Twin
+Graham Parker
 J Dilla
 Sigur Rós
 The Stooges
+The Flying Burrito Bros
 Pharoah Sanders
 Massive Attack
 Frank Zappa
 The Zombies
 Have a Nice Life
+Go-Go's
 Nine Inch Nails
 Charles Mingus
 Modest Mouse
 Sweet Trip
 Mobb Deep
 Neil Young with Crazy Horse
+Ike & Tina Turner
+New York Dolls
+Bo Diddley
+Bobby Bland
 The Avalanches
 Eno
 Black Country
@@ -1154,6 +1216,7 @@ Charlie Mingus
 Pavement
 Slayer
 Rage Against the Machine
+Big Brother & The Holding Company
 Fela Anikulapo Kuti and Afrika 70
 Jorge Ben
 Tool
@@ -1179,6 +1242,7 @@ Car Seat Headrest
 Eric Dolphy
 This Heat
 D'Angelo
+Steve Earle
 Gang Starr
 Wire
 Nick Cave and The Bad Seeds
@@ -1236,6 +1300,7 @@ JPEGMAFIA
 Robert Wyatt
 Agalloch
 Parliament
+Janet Jackson
 Cannonball Adderley
 Neurosis
 Janet
@@ -1255,9 +1320,11 @@ Nujabes
 Scott Engel
 John Fahey
 Lil Ugly Mane
+Albert King
 Soft Machine
 Mercyful Fate
 Natural Snow Buildings
+Eurythmics
 Racionais MC's
 Astor Piazzolla and The New Tango Quintet
 Deltron 3030
@@ -1288,6 +1355,8 @@ Siouxsie and The Banshees
 Soundgarden
 Tears for Fears
 Peter Gabriel
+Buffalo Springfield
+Quicksilver Messenger Service
 Jackson C. Frank
 Anthony Braxton
 Dead Can Dance
@@ -1301,6 +1370,8 @@ Billy Woods
 UGK
 Faust
 Frank Zappa and The Mothers of Invention
+The Mothers of Invention
+The Grateful Dead
 Common
 Injury Reserve
 Wayne Shorter
@@ -1321,6 +1392,7 @@ Shibusashirazu渋さ知らズ
 The Cannonball Adderley Quintet
 Grouper
 The Modern Lovers
+Def Leppard
 Demilich
 Autopsy
 The Thelonious Monk Quartet
@@ -1361,6 +1433,8 @@ Dadawah
 Bad Brains
 Snoop Doggy Dogg
 Roxy Music
+Jane's Addiction
+Stan Getz & João Gilberto featuring Antônio Carlos Jobim
 Prefab Sprout
 Deathspell Omega
 Brand New
@@ -1416,6 +1490,7 @@ Midoriミドリ
 Djeli Moussa Diawara
 The Mountain Goats
 PiL
+Echo and The Bunnymen
 Strapping Young Lad
 Popol Vuh
 Misfits
@@ -1457,11 +1532,13 @@ Os Mutantes
 W.A.S.P.
 Big Star
 Manuel Göttsching
+P J Harvey
 Arthur Verocai
 Pete La Roca
 Roy Harper
 Terry Callier
 Jackie McLean
+Sinéad O'Connor
 Andrew Lloyd Webber and Tim Rice
 Tim Buckley
 Blue Öyster Cult
@@ -1483,6 +1560,7 @@ Silver Jews
 Triana
 Ground-Zero
 X-Ray Spex
+X
 Art Ensemble of Chicago
 The Feelies
 Harmonium
@@ -1498,3 +1576,35 @@ Serú Girán
 Joe Henderson
 Type O Negative
 T2
+The Velvet Underground & Nico
+Carole King
+MC5
+Muddy Waters
+Yardbirds
+Sex Pistols
+Little Richard
+Barry White
+The Cars
+Ray Charles
+Blood, Sweat & Tears
+The Mamas and The Papas
+Captain Beefheart & His Magic Band
+Sly & The Family Stone
+Phil Spector
+Buddy Holly / The Crickets
+The Crickets
+Cream
+The Velvet Underground
+Derek and The Dominos
+Etta James
+The Byrds
+Run-D.M.C.
+Moby Grape
+Janis Joplin
+The Mama's and The Papa's
+The Meters
+Blondie
+B.B. King
+Dr. John, the Night Tripper
+N.W.A
+Jefferson Airplane
