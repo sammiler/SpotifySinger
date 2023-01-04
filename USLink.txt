@@ -93,7 +93,7 @@ https://open.qobuz.com/artist/296908
 https://open.qobuz.com/artist/62235
 https://open.qobuz.com/artist/456995
 https://open.qobuz.com/artist/67115
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/588404
 https://open.qobuz.com/artist/1097691
 https://open.qobuz.com/artist/3014935
 https://open.qobuz.com/artist/370723
@@ -376,7 +376,7 @@ https://open.qobuz.com/artist/42239
 https://open.qobuz.com/artist/122875
 https://open.qobuz.com/artist/10336
 https://open.qobuz.com/artist/53922
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/4196995
 https://open.qobuz.com/artist/71928
 https://open.qobuz.com/artist/26702
 https://open.qobuz.com/artist/45090
@@ -397,7 +397,7 @@ https://open.qobuz.com/artist/92271
 https://open.qobuz.com/artist/91179
 https://open.qobuz.com/artist/148999
 https://open.qobuz.com/artist/21621
-Barry Mann and Cynthia Weill
+https://open.qobuz.com/artist/860023
 https://open.qobuz.com/artist/415027
 https://open.qobuz.com/artist/129081
 https://open.qobuz.com/artist/132127
@@ -418,8 +418,8 @@ https://open.qobuz.com/artist/322137
 https://open.qobuz.com/artist/50032
 https://open.qobuz.com/artist/52199
 https://open.qobuz.com/artist/128076
-https://open.qobuz.com/artist/download-streaming-albums?page=2
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/336396
+https://open.qobuz.com/artist/45964
 https://open.qobuz.com/artist/458148
 https://open.qobuz.com/artist/365912
 https://open.qobuz.com/artist/9951
@@ -597,7 +597,7 @@ https://open.qobuz.com/artist/90147
 https://open.qobuz.com/artist/325005
 https://open.qobuz.com/artist/810059
 https://open.qobuz.com/artist/1619903
-V
+无
 https://open.qobuz.com/artist/3758199
 https://open.qobuz.com/artist/3640028
 https://open.qobuz.com/artist/162056
@@ -817,7 +817,7 @@ https://open.qobuz.com/artist/112921
 https://open.qobuz.com/artist/8750081
 https://open.qobuz.com/artist/22732
 https://open.qobuz.com/artist/2855721
-https://open.qobuz.com/artist/2511689?page=2
+https://open.qobuz.com/artist/2511689
 https://open.qobuz.com/artist/729888
 https://open.qobuz.com/artist/2285375
 https://open.qobuz.com/artist/2115226
@@ -957,10 +957,10 @@ https://open.qobuz.com/artist/1970935
 https://open.qobuz.com/artist/39102
 https://open.qobuz.com/artist/39102
 https://open.qobuz.com/artist/3555471
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/929694
 https://open.qobuz.com/artist/278034
 https://open.qobuz.com/artist/312436
-https://open.qobuz.com/artist/2352725?page=1
+https://open.qobuz.com/artist/6655881
 https://open.qobuz.com/artist/556278
 https://open.qobuz.com/artist/149589
 https://open.qobuz.com/artist/25046
@@ -972,7 +972,7 @@ https://open.qobuz.com/artist/51276
 https://open.qobuz.com/artist/53545
 https://open.qobuz.com/artist/103073
 https://open.qobuz.com/artist/307085
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/329187
 https://open.qobuz.com/artist/158874
 https://open.qobuz.com/artist/2037305
 https://open.qobuz.com/artist/34527
@@ -1044,7 +1044,7 @@ https://open.qobuz.com/artist/556207
 https://open.qobuz.com/artist/295716
 https://open.qobuz.com/artist/129949
 https://open.qobuz.com/artist/256652
-https://open.qobuz.com/artist/5006464?page=2
+https://open.qobuz.com/artist/5006464
 https://open.qobuz.com/artist/64971
 https://open.qobuz.com/artist/38321
 https://open.qobuz.com/artist/38372
@@ -1095,7 +1095,7 @@ https://open.qobuz.com/artist/68130
 https://open.qobuz.com/artist/794372
 https://open.qobuz.com/artist/310028
 https://open.qobuz.com/artist/115977
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/2396927
 https://open.qobuz.com/artist/135918
 https://open.qobuz.com/artist/409678
 https://open.qobuz.com/artist/33096
@@ -1149,7 +1149,7 @@ https://open.qobuz.com/artist/26028
 https://open.qobuz.com/artist/6760
 https://open.qobuz.com/artist/2058535
 https://open.qobuz.com/artist/43247
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/409026
 https://open.qobuz.com/artist/2435607
 https://open.qobuz.com/artist/310345
 https://open.qobuz.com/artist/3879609
@@ -1235,12 +1235,12 @@ https://open.qobuz.com/artist/151851
 https://open.qobuz.com/artist/4020648
 https://open.qobuz.com/artist/38625
 https://open.qobuz.com/artist/133486
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/243654
 https://open.qobuz.com/artist/180500
 https://open.qobuz.com/artist/6082
 https://open.qobuz.com/artist/2382612
 https://open.qobuz.com/artist/27749
-https://open.qobuz.com/artist/download-streaming-albums
+无
 https://open.qobuz.com/artist/42620
 https://open.qobuz.com/artist/68187
 https://open.qobuz.com/artist/68367
@@ -1257,7 +1257,7 @@ https://open.qobuz.com/artist/189235
 https://open.qobuz.com/artist/226614
 https://open.qobuz.com/artist/20169
 https://open.qobuz.com/artist/3777136
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/139728
 https://open.qobuz.com/artist/192608
 https://open.qobuz.com/artist/1882363
 https://open.qobuz.com/artist/156395
@@ -1302,7 +1302,7 @@ https://open.qobuz.com/artist/1526426
 https://open.qobuz.com/artist/70781
 https://open.qobuz.com/artist/43485
 https://open.qobuz.com/artist/34626
-https://open.qobuz.com/artist/
+https://open.qobuz.com/artist/1801344
 https://open.qobuz.com/artist/43485
 https://open.qobuz.com/artist/160043
 https://open.qobuz.com/artist/148745
@@ -1340,12 +1340,12 @@ https://open.qobuz.com/artist/138948
 https://open.qobuz.com/artist/824853
 https://open.qobuz.com/artist/20169
 https://open.qobuz.com/artist/937332
-https://open.qobuz.com/artist/download-streaming-albums
+https://open.qobuz.com/artist/206236  
 https://open.qobuz.com/artist/35405
 https://open.qobuz.com/artist/320270
 https://open.qobuz.com/artist/3782455
 https://open.qobuz.com/artist/826072
-https://open.qobuz.com/artist/download-streaming-albums
+无
 https://open.qobuz.com/artist/2550421
 https://open.qobuz.com/artist/2036
 https://open.qobuz.com/artist/1407
@@ -1396,8 +1396,8 @@ https://open.qobuz.com/artist/152377
 https://open.qobuz.com/artist/44161
 https://open.qobuz.com/artist/35031
 https://open.qobuz.com/artist/160035
-Susumu Hirasawa平沢進
-Shibusashirazu渋さ知らズ
+无
+无
 https://open.qobuz.com/artist/47434
 https://open.qobuz.com/artist/170399
 https://open.qobuz.com/artist/36438
@@ -1460,7 +1460,7 @@ https://open.qobuz.com/artist/36222
 https://open.qobuz.com/artist/210121
 https://open.qobuz.com/artist/71392
 https://open.qobuz.com/artist/600124
-https://open.qobuz.com/artist/download-streaming-albums
+无
 https://open.qobuz.com/artist/574593
 https://open.qobuz.com/artist/1788077
 https://open.qobuz.com/artist/71777
@@ -1482,7 +1482,7 @@ https://open.qobuz.com/artist/129785
 https://open.qobuz.com/artist/129602
 https://open.qobuz.com/artist/38626
 https://open.qobuz.com/artist/68448
-https://open.qobuz.com/artist/download-streaming-albums
+无
 https://open.qobuz.com/artist/52764
 https://open.qobuz.com/artist/384672
 https://open.qobuz.com/artist/388515
@@ -1494,10 +1494,10 @@ https://open.qobuz.com/artist/31491
 https://open.qobuz.com/artist/26780
 https://open.qobuz.com/artist/115618
 https://open.qobuz.com/artist/175639
-Mid-Air Thief공중도둑
-Farazi v Kayra
-Stan Getz & João Gilberto featuring Antônio Carlos Jobim
-David Kauffman and Eric Caboor
+无
+无
+https://open.qobuz.com/artist/35381
+https://open.qobuz.com/artist/5556127
 https://open.qobuz.com/artist/39830
 https://open.qobuz.com/artist/310947
 https://open.qobuz.com/artist/685434
@@ -1550,11 +1550,11 @@ https://open.qobuz.com/artist/564332
 https://open.qobuz.com/artist/196593
 https://open.qobuz.com/artist/298239
 https://open.qobuz.com/artist/912317
-https://open.qobuz.com/artist/download-streaming-albums
-https://open.qobuz.com/artist/179143
+无
+无
 https://open.qobuz.com/artist/16658
 https://open.qobuz.com/artist/707261
-https://open.qobuz.com/artist/download-streaming-albums
+无
 https://open.qobuz.com/artist/3641085
 https://open.qobuz.com/artist/15044662
 https://open.qobuz.com/artist/5775893
@@ -1606,5 +1606,5 @@ https://open.qobuz.com/artist/691895
 https://open.qobuz.com/artist/47358
 https://open.qobuz.com/artist/69630
 https://open.qobuz.com/artist/50879
-Roland Kayn
-LOONA ODD EYE CIRCLE이달의 소녀 오드아이써클
+无
+无
